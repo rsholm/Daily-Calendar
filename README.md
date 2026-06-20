@@ -274,3 +274,7 @@ If you have questions about these Terms, contact:
 
 - GitHub Issues: [https://github.com/rsholm/Daily-Calendar/issues](https://github.com/rsholm/Daily-Calendar/issues)
 - Developer contact: Use the developer support email listed on the Daily Calendar Google Play listing and Google OAuth consent screen.
+
+
+[google5f07df329ca9d18d.html](https://github.com/user-attachments/files/29155732/google5f07df329ca9d18d.html)
+google-site-verification: google5f07df329ca9d18d.html
