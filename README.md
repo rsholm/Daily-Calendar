@@ -1,4 +1,5 @@
-[google5f07df329ca9d18d.html](https://github.com/user-attachments/files/29155761/google5f07df329ca9d18d.html)# Daily Calendar
+[google5f07df329ca9d18d.html](https://github.com/user-attachments/files/29155761/google5f07df329ca9d18d.html)
+# Daily Calendar
 
 Daily Calendar is an Android app that turns an old phone or tablet into a simple daily calendar dashboard. It displays a user's schedule for the current day using read-only calendar access.
 
